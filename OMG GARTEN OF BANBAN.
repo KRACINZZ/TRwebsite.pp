@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Tyler's First Project</title>
+</head>
+<body>
+	<header>
+		<h1>Tyler's First Project!!!</h1>
+	</header>
+	
+	<main>
+		<p>
+			Garten of Banban is an addictive game that combines strategy, adventure, and mystery. In this game, players take on the role of a young adventurer who has just discovered the ancient ruins of Banban. The ruins are said to contain a powerful artifact that can grant unlimited power to whoever possesses it. However, the ruins are also guarded by dangerous monsters and puzzles that must be solved in order to progress further. 
+		</p>
+		<p>
+			The gameplay of Garten of Banban is challenging but rewarding. Each level presents new obstacles and enemies that require careful planning and resource management. Players must collect resources such as food, water, and tools to survive and progress through the game. Additionally, they must solve puzzles and defeat enemies in order to unlock new areas and reveal the secrets of the ruins.
+		</p>
+		<p>
+			Overall, Garten of Banban is a must-play game for anyone who loves adventure and strategy games. Its beautiful graphics, engaging storyline, and challenging gameplay make it a game that will keep you hooked for hours on end.
+		</p>
+	</main>
+	
+	<footer>
+		<p>PEE PEE</p>
+	</footer>
+</body>
+</html>
